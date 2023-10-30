@@ -39,7 +39,7 @@ jQuery(document).ready(function($) {
                 }else if(thisIndex > $('#thumbnail li.active').index()){
                     nextImage(thisIndex, $(this).parents("#thumbnail").prev("#image-slider"));
                 }
-                    
+
                 $('#thumbnail li.active').removeClass('active');
                 $(this).addClass('active');
 
