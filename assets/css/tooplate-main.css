@@ -480,6 +480,7 @@ nav a::before {
   background: #fff;
   margin-right: 30px;
   padding: 60px;
+  text-align: justify;
 }
 .tabs-content h2 {
   font-size: 29px;
