@@ -383,9 +383,8 @@ nav a::before {
   right: 100px;
   z-index: 99999;
   bottom: 30px;
-  
+ 
 }
-
 #thumbnail ul {
   padding: 0px;
   margin: 0px;
