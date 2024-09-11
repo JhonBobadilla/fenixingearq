@@ -358,7 +358,7 @@ nav a::before {
 }
 #image-slider ul li:nth-child(1) {
   background-image: url(../images/full-bg-01.jpg);
-  height: ;
+  
 }
 
 #image-slider ul li:nth-child(2) {
@@ -750,7 +750,9 @@ nav a::before {
     top: 140px;
   }
   .slide-caption h2 {
-  	font-size: 48px;
+  	font-size: 35px;
+    text-align: justify;
+    
   }
   .tabs-content {
     width: auto;
